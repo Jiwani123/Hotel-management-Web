@@ -1,0 +1,15 @@
+export const MENU_CATEGORIES = [
+  "Starters",
+  "Mains",
+  "Sides",
+  "Burgers",
+  "Sandwiches",
+  "Salads",
+  "Soups",
+  "Desserts",
+  "Beverages",
+  "Breakfast",
+  "Kids",
+  "Specials",
+  "Other",
+];
